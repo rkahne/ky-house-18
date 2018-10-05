@@ -1,0 +1,13 @@
+name: ky-house-18
+title: ky-house-18
+username:
+account: rkahne
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 317238
+bundleId: 1307110
+url: https://rkahne.shinyapps.io/ky-house-18/
+when: 1523077045.58259
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: shapefiles
