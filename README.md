@@ -1,3 +1,5 @@
+This project lives at https://rkahne.shinyapps.io/ky-house-18/
+
 # Predicting the 2018 Kentucky House of Representatives
 
 This application uses election data from 2016 to assist in forming predictions about the 2018 election for the Kentucky House of Representatives.  Use the sliders in the sidebar to estimate how turnout will change from the 2016 election for Democrats and Republicans.  The defaults are set to a 30% decrease in turnout for Democrats and a 45% decrease in turnout for Republicans -- this results in a total decrease in turnout between 2016 and 2018 of 38.4%.  That number is in line with the 39% average decrease in turnout between Presidential elections and midterm elections which has occurred over the past 4 cycles.  I selected -30% for Democrats and -45% for Republicans very loosely on the special election in District 49 which occurred earlier this year, as well as a gut feeling, and dumb optimism.
