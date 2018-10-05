@@ -5,12 +5,16 @@ This application uses election data from 2016 to assist in forming predictions a
 ## Elements
 
 The first page of this application is a map of all the House districts in Kentucky, with a circle drawn on top of the center of the district.  The color of the circle indicates the candidate who the sliders in the sidebar predict will win the election, and the size of the circles dictates the margin of victory.  I’ve also included a table at the bottom which shows the number of races which fell within 1,000 votes.
+
 The second page of the application is a district detail.  Each district has different elements.  For many districts, especially those entirely within Fayette, Jefferson, Boone, Kenton, Campbell, and Pendleton counties, there are detailed maps which show the impacts of your predicts on each individual precinct.  Unfortunately, not every district has a precinct map -- while I’ve managed to receive 2016 precinct maps from the counties listed above, the last statewide precinct map was created based on the 2015 election.  Any district which has seen their precinct change between 2015 and now will not have a precinct level map.
+
 The second page also includes other information.  At the top, I’ve included the information I found in February of 2018 about the candidates running in each district (email me at rkahne@gmail.com if you would like to see an update).  I’ve also included an aggregate table showing the impact of your predictions on the race as a whole, and a detailed table of the impact of your predictions on each individual precinct.  However, the Secretary of State only has precinct level election results in tabluar format for 83 of the 100 districts.
 
 ## Caveats and Thanks
 
 For districts that went uncontested in 2016, I used the US Senate data as a proxy.  That might make results in Lexington and surrounding areas a little wonky, as Jim Gray greatly outperformed many House candidates in those areas.
+
 The idea for this app came from Troy Ransdell, who built a really great Excel tool that formed a lot of logic that went into creating this application.  Troy is the best!
+
 This app was created by me, Robert Kahne.  Feel free to use any information you find in it anywhere you like, but please provide a citation.
     
